@@ -25,19 +25,30 @@ Business Insights 360 is an interactive Power BI dashboard that provides compreh
 
         
 ## 🛠️ Skills & Technologies Used
-  📌 Data Processing & Transformation Power Query for data cleaning, transformation, and merging multiple datasets. Applied column transformations, missing value handling, and text operations.
+📌 Data Processing & Transformation
+Utilized Power Query for data cleaning, transformation, and merging multiple datasets. Applied column transformations, handled missing values, and performed text operations.
 
-📌 Data Modeling & Relationships Designed a star schema using Fact & Dimension Tables for efficient querying. Established one-to-many and many-to-one relationships between datasets.
+📌 Data Modeling & Relationships
+Designed a star schema using fact and dimension tables for efficient querying. Established one-to-many and many-to-one relationships between datasets.
 
-📌 DAX (Data Analysis Expressions) Calculations Created custom measures and calculated columns, including: ✅ Gross Margin %, Net Profit %, Forecast Accuracy ✅ Year-over-Year (YoY) Growth Analysis ✅ Customer Retention & Sales Forecasting Used advanced DAX functions like CALCULATE, SUMX, DIVIDE, and FILTER.
+📌 DAX (Data Analysis Expressions) Calculations
+Created custom measures and calculated columns, including:
+✅ Gross Margin %, Net Profit %, and Forecast Accuracy
+✅ Year-over-Year (YoY) Growth Analysis
+✅ Customer Retention and Sales Forecasting
+Implemented advanced DAX functions such as CALCULATE, SUMX, DIVIDE, and FILTER.
 
-📌 Data Visualization & Dashboard Design Developed interactive and user-friendly reports with: ✅ Bar charts, line graphs, KPI cards, and heatmaps ✅ Drill-throughs, slicers, and filters for dynamic data exploration ✅ Custom color themes and layout design for professional presentation
+📌 Data Visualization & Dashboard Design
+Developed interactive and user-friendly reports featuring:
+✅ Bar charts, line graphs, KPI cards, and heatmaps
+✅ Drill-throughs, slicers, and filters for dynamic data exploration
+✅ Custom color themes and layout designs for professional presentation
 
-📌 Business Intelligence & Data Storytelling Extracted key trends, outliers, and actionable insights from data. Provided data-driven recommendations to optimize business performance. Focused on enhancing decision-making for stakeholders.
-     
+📌 Business Intelligence & Data Storytelling
+Identified key trends, outliers, and actionable insights from data. Provided data-driven recommendations to optimize business performance. Focused on enhancing decision-making for stakeholders.
 ### 📂 Dataset Information The dataset consists of multiple data sources, including:
 
-Sales transactions 📊 Financial records 💰 Inventory & supply chain data 🚚 Marketing performance data 📢 Data has been processed and structured for efficient reporting.
+Sales transactions 📊 Financial records 💰 Inventory & supply chain data 🚚 Marketing performance data 📢 has been processed and structured for efficient reporting.
 
 ### 
 
