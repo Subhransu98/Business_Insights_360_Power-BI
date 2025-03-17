@@ -1,6 +1,6 @@
 
 # 🚀 Business Insights 360 – Power BI Dashboard
-### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=b1599c06-1e60-4d1e-9ef7-d6abf2b62201&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNmU0NzVlZGEtYTJkMC00ZGE1LWEzZTQtYmNhYjRhMjI0YTc2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## 📌 Project Overview
 
